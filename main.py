@@ -328,6 +328,7 @@ demo = gr.Interface(
     - Tomato (early blight, healthy, late blight, leaf mold, mosaic virus, septoria, spider mites, target spot, yellow leaf curl)
     """,
     theme="soft",
+    
     flagging_mode="never"
 )
 
